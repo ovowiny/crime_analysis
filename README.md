@@ -10,5 +10,6 @@ different functions and variables were also used to achieve this.
 #### Total Resolved and Unresolved Crimes: Distinction between resolved and unresolved crimes, offering an overview of the overall resolution rate.
 #### Monthly Crime Trend with Percentage Variance: Analysis of the monthly crime trend, accompanied by the percentage variance to highlight fluctuations.
 #### Identification of the Most Dangerous Time of the Day: Exploration to pinpoint the specific time periods during the day associated with a higher frequency of crimes.
-
-
+#### Snapshot of the dashboards
+![Crime 1](https://github.com/ovowiny/crime_analysis/assets/52107224/be4c5cd4-9666-453b-bfba-37f82ce7fc8b)
+![Crime 2](https://github.com/ovowiny/crime_analysis/assets/52107224/990225e8-609e-4eea-9d86-f5bd8bf7cdee)
