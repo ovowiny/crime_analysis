@@ -1,5 +1,5 @@
 # crime_analysis
-This analysis aims to analyze a crime dataset to have prtitnent information regarding the crime activities within a time frame.
+This analysis aims to analyze a crime dataset to have pertitnent information regarding the crime activities within a time frame.
 Highlighted are the parameters we tends to visualize using _POWERBI_. Data cleaning via power query was used, put in the right format, DAX expressions were created,
 different functions and variables were also used to achieve this.
 #### Total Crimes: Sum of all reported crimes in the dataset.
